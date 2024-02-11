@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">I'm a 24-year-old developer based in India 🇮🇳 </h3>
 
-<!--
-**vaibhav0123/vaibhav0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning  `React.js`, `Tailwind CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about  `JavaScript` & `Python`
+
+## 📦 Languages & Tools
+
+`HTML` - `CSS` - `JavaScript` - `Python` - `TailWind` - `Git`
+ 
+## ✨ Fun Facts 
+
+- As a kid, I wanted to be a Doctor.
+
+## 📫 Contact
+
+ For a quick response, DM me on [Instagram](https://www.instagram.com/vaibhavdhok/) or [LinkedIn](https://www.linkedin.com/in/vaibhavdhok/). 
+ 
+
+

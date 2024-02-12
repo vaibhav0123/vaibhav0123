@@ -16,7 +16,7 @@
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/vaibhavdhok/) or [LinkedIn](https://www.linkedin.com/in/vaibhavdhok/). 
- 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/vaibhavdhok/) or [LinkedIn](https://www.linkedin.com/in/vaibhavdhok/).
+<hr>
 
 
